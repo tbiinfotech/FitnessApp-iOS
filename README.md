@@ -2,7 +2,7 @@
 
 ----
 
-The app has workouts for your full body workouts. For all the workouts there are videos. A challegnes a keep you motivated and also have a dite plan according to your body requiremnt. 
+The app brings the power of Health and Fitness. The app offers the Fitness plans that fits the users lifestyle and goals. The users can enjoy Daily Workouts with the community and continue to challenge themselves on a day to day basis.
 
 ![Screenshot](https://github.com/tbiinfotech/FitnessApp-iOS/blob/main/Images/Home.png)
 ![Screenshot](https://github.com/tbiinfotech/FitnessApp-iOS/blob/main/Images/Workout.png)
@@ -17,5 +17,5 @@ The app has workouts for your full body workouts. For all the workouts there are
 - [x] Firebase is used for App analytics and Crashlytics
 - [x] Apple Push Notifications (APN's) used to notify users about events
 - [x] Apple Subscription (For In-App Purchases)
-- [x] Firebase Chat
-- [x] Vimeo video player
+- [x] Firebase FCM is used for Chat
+- [x] Vimeo as a video player
